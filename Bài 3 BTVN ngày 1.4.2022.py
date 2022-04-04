@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 a = int(input('nhập số bất kì: '))
 if a == 0:
     print ('hôm nay là thứ 2')
@@ -21,16 +15,3 @@ elif a == 6:
     print ('hôm nay là chủ nhật')
 else :
     print ('nhập sai dữ liệu, mời nhập lại')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
